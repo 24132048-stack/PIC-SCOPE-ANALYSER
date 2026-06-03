@@ -1,4 +1,7 @@
 Flask
-exif
+Pillow
+piexif
+ExifRead
+geopy
 gunicorn
 
