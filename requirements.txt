@@ -1,6 +1,4 @@
 Flask
-Pillow
-piexif
-geopy
+esif
 gunicorn
 
